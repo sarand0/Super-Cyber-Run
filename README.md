@@ -23,10 +23,8 @@ is to dodge the lasers while retrieving shields that protect you from them. For 
 
 * [Laser Beam](https://www.deviantart.com/arctusdracon/art/Giant-Laser-Beam-Sprite-Animated-GIF-430933510)
 
-* https://www.deviantart.com/annasmoke/art/Potion-of-love-759436605
+* [Potion](https://www.deviantart.com/annasmoke/art/Potion-of-love-759436605)
 
-* https://www.google.com/search?q=3d+shield.png&tbm=isch&ved=2ahUKEwiGueiuwcL7AhXxoWoFHdKFCCcQ2-cCegQIABAA&oq=3d+shield.png&gs_lcp=CgNpbWcQAzIECAAQHjIGCAAQBRAeMgYIABAIEB4yBggAEAgQHjoFCAAQgAQ6BggAEAcQHjoICAAQCBAHEB5Q5AxYlRBgthJoAHAAeACAAUuIAY4CkgEBNJgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=VCF9Y4a_OPHDqtsP0ouiuAI&bih=616&biw=1280&rlz=1C1CHZN_enJM945JM945#imgrc=2O4lNKReqPHwdM
-
-* https://www.google.com/search?q=laser+beam+.png&tbm=isch&ved=2ahUKEwjdgJWAi9T7AhUalXIEHU3GAu0Q2-cCegQIABAA&oq=laser+beam+.png&gs_lcp=CgNpbWcQAzIFCAAQgAQyBggAEAcQHjIGCAAQBxAeMgYIABAHEB4yBggAEAcQHjIGCAAQBxAeMgYIABAHEB4yBggAEAcQHjIGCAAQBxAeMgYIABAHEB46BAgAEENQjQZYuQtg2RFoAHAAeACAAVCIAYQCkgEBNJgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=PliGY93pNJqqytMPzYyL6A4&rlz=1C1CHZN_enJM945JM945#imgrc=5OTk6lNXArhQ4M
+* [Shield](https://www.google.com/search?q=3d+shield.png&tbm=isch&ved=2ahUKEwiGueiuwcL7AhXxoWoFHdKFCCcQ2-cCegQIABAA&oq=3d+shield.png&gs_lcp=CgNpbWcQAzIECAAQHjIGCAAQBRAeMgYIABAIEB4yBggAEAgQHjoFCAAQgAQ6BggAEAcQHjoICAAQCBAHEB5Q5AxYlRBgthJoAHAAeACAAUuIAY4CkgEBNJgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=VCF9Y4a_OPHDqtsP0ouiuAI&bih=616&biw=1280&rlz=1C1CHZN_enJM945JM945#imgrc=2O4lNKReqPHwdM)
 
 * All other images and instructions were created using Canva to create the Splash screen.
