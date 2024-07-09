@@ -3,6 +3,8 @@
 <br >
 
 <strong>Theme Description</strong>
+
+
 *The theme for this game is a futuristic Galaxy world with magic shields, HP booster potions, and robots shooting lasers.
 
 **Custom  Features & Mechanisms:**
