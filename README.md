@@ -1,7 +1,9 @@
-## Welcome to my Super Cyber Run!
+## Welcome to Super Cyber Run!
 
-**Theme Description:**
--The theme for this game is a futuristic Galaxy world with magic shields, HP booster potions, and robots shooting lasers.
+<br >
+
+<strong>Theme Description</strong>
+*The theme for this game is a futuristic Galaxy world with magic shields, HP booster potions, and robots shooting lasers.
 
 **Custom  Features & Mechanisms:**
 -The player is a girl who belongs to this futuristic World but is on the run from robots shooting lasers, the goal
