@@ -1,5 +1,10 @@
 ## Welcome to Super Cyber Run!
 
+
+<p align="center">
+  //<img src="https://github.com/Delaford/game/raw/master/src/assets/github/logo.png"/>
+</p>
+
 <br >
 
 <strong>Theme Description</strong>
