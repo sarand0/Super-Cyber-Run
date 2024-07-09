@@ -19,7 +19,7 @@ is to dodge the lasers while retrieving shields that protect you from them. For 
 
 <strong>Images Used:</strong>
 
-* [Background]((https://www.freepik.com/free-vector/retro-futuristic-landscape-universe-background_4992800.htm?epik=dj0yJnU9dVNDVkRmSjR1d2ZfZkY3dDNjUzFNNHBOQTU0eTdWaGEmcD0wJm49a1dNZEJQQlV4eENLYjlraXRheHIydyZ0PUFBQUFBR040UFRR)
+* [Background](https://www.freepik.com/free-vector/retro-futuristic-landscape-universe-background_4992800.htm?epik=dj0yJnU9dVNDVkRmSjR1d2ZfZkY3dDNjUzFNNHBOQTU0eTdWaGEmcD0wJm49a1dNZEJQQlV4eENLYjlraXRheHIydyZ0PUFBQUFBR040UFRR)
 
 * https://www.deviantart.com/arctusdracon/art/Giant-Laser-Beam-Sprite-Animated-GIF-430933510
 
