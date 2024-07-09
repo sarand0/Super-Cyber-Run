@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  //<img src="https://github.com/Delaford/game/raw/master/src/assets/github/logo.png"/>
+  img src="https://github.com/Dela/ford/game/raw/master/src/assets/github/logo.png"/>
 </p>
 
 <br >
