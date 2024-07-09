@@ -29,4 +29,4 @@ is to dodge the lasers while retrieving shields that protect you from them. For 
 
 * https://www.google.com/search?q=laser+beam+.png&tbm=isch&ved=2ahUKEwjdgJWAi9T7AhUalXIEHU3GAu0Q2-cCegQIABAA&oq=laser+beam+.png&gs_lcp=CgNpbWcQAzIFCAAQgAQyBggAEAcQHjIGCAAQBxAeMgYIABAHEB4yBggAEAcQHjIGCAAQBxAeMgYIABAHEB4yBggAEAcQHjIGCAAQBxAeMgYIABAHEB46BAgAEENQjQZYuQtg2RFoAHAAeACAAVCIAYQCkgEBNJgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=PliGY93pNJqqytMPzYyL6A4&rlz=1C1CHZN_enJM945JM945#imgrc=5OTk6lNXArhQ4M
 
--All other images used to create the Splash screen and instructions were created using Canva.
+* All other images and instructions were created using Canva to create the Splash screen.
