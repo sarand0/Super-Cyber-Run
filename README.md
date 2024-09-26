@@ -2,8 +2,7 @@
 
 ![1](https://github.com/user-attachments/assets/1c665348-6cd0-426d-9d0c-8e8ea361e730)
 
-![2](https://github.com/user-attachments/assets/5d0a0c57-69ac-434f-a059-36d528759ee3)
-
+![Final Game Onboarding](https://github.com/user-attachments/assets/9821474a-7aff-4974-bcb5-6fe7c7c9220d)
 
 <br >
 
