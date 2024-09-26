@@ -1,7 +1,9 @@
 ## Welcome to Super Cyber Run!
 
+![1](https://github.com/user-attachments/assets/1c665348-6cd0-426d-9d0c-8e8ea361e730)
 
-![Alt text](https://colgate0-my.sharepoint.com/:i:/g/personal/sduncan_colgate_edu/EQPP2pPw7ZhEhq8tnmceCm8Bq1i5DWC1Yk95rx7WcFthNg?e=ncctp6)
+![2](https://github.com/user-attachments/assets/5d0a0c57-69ac-434f-a059-36d528759ee3)
+
 
 <br >
 
