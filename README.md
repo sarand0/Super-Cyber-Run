@@ -17,10 +17,10 @@
 
 * The player is a girl who belongs to this futuristic world but is on the run from robots shooting lasers. The goal
 is to dodge the lasers while retrieving shields that protect you from them. For every shield collected, the player can get hit by one laser without consequences.
-* The player can also collect potions along the way, increasing their HP by two and score by 20.
-* If the player collides with a laser and does not have a shield, then their HP is reduced by 1.
-* To win the game, the player must score 333 points and collect at least three potions.
-* If the player's HP is less than or equal to zero, then they lose the game 
+* The player can also collect potions along the way, increasing their HP by two and score by twenty.
+* If the player collides with a laser and does not have a shield, then their HP is reduced by one.
+* To win the game, the player must score six hundred and fifty points and collect at least three potions.
+* If the player's HP is less than or equal to zero, they lose the game.
 
 <strong>Images Used:</strong>
 
