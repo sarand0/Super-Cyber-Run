@@ -1,10 +1,10 @@
 ## Welcome to Super Cyber Run!
 
 
-
+![Alt text](https://colgate0-my.sharepoint.com/:i:/g/personal/sduncan_colgate_edu/EQPP2pPw7ZhEhq8tnmceCm8Bq1i5DWC1Yk95rx7WcFthNg?e=ncctp6)
 
 <br >
-![alt text](https://colgate0-my.sharepoint.com/:i:/g/personal/sduncan_colgate_edu/EQPP2pPw7ZhEhq8tnmceCm8Bq1i5DWC1Yk95rx7WcFthNg?e=ncctp6)
+
 
 <strong>Theme Description</strong>
 
