@@ -34,4 +34,4 @@ is to dodge the lasers while retrieving shields that protect you from them. For 
 
 * [Character]()
   
-* Splash Screen and instructions screen were created using Canva.
+* Splash screen and instructions screen were created using Canva.
